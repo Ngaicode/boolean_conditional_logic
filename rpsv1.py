@@ -19,7 +19,7 @@ elif player1 == 'scissors' and player2 == 'paper':
     print('player1 wins')      
 
 
-
+ 
 
 
 elif player1 == player2:
