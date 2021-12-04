@@ -8,7 +8,7 @@ player2 = input('player 2 ,make your move ') #prompts input from the user and as
 if player1 == player2:
     print("it's a tie")
 elif player1 == 'rock':
-    if player2 == 'scissors':
+    if player2 == 'scissors':# using nested conditionals
         print('player1 wins')
     elif player2  == 'paper':
         print('player2 wins') 
@@ -26,28 +26,4 @@ else:
     print("something went wrong")             
 
 
-
-
-                
-
-
-
-
-
-
-
-
-
-    
-      
-   
-       
-     
-         
-
-
-
-
-
-    
   
